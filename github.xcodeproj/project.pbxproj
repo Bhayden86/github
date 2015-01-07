@@ -13,6 +13,7 @@
 		AAAB4A971A5D92FD006DEE31 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAAB4A961A5D92FD006DEE31 /* Images.xcassets */; };
 		AAAB4A9A1A5D92FD006DEE31 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = AAAB4A981A5D92FD006DEE31 /* LaunchScreen.xib */; };
 		AAAB4AA61A5D92FD006DEE31 /* githubTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAAB4AA51A5D92FD006DEE31 /* githubTests.swift */; };
+		DA79A0C91A5D99F100298B8D /* 1351045545_0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = DA79A0C81A5D99F100298B8D /* 1351045545_0.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		AAAB4A9F1A5D92FD006DEE31 /* githubTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = githubTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAAB4AA41A5D92FD006DEE31 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AAAB4AA51A5D92FD006DEE31 /* githubTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubTests.swift; sourceTree = "<group>"; };
+		DA79A0C81A5D99F100298B8D /* 1351045545_0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 1351045545_0.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		AAAB4A8D1A5D92FD006DEE31 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				DA79A0C81A5D99F100298B8D /* 1351045545_0.jpg */,
 				AAAB4A8E1A5D92FD006DEE31 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +198,7 @@
 				AAAB4A951A5D92FD006DEE31 /* Main.storyboard in Resources */,
 				AAAB4A9A1A5D92FD006DEE31 /* LaunchScreen.xib in Resources */,
 				AAAB4A971A5D92FD006DEE31 /* Images.xcassets in Resources */,
+				DA79A0C91A5D99F100298B8D /* 1351045545_0.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -407,6 +411,7 @@
 				AAAB4AAB1A5D92FD006DEE31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AAAB4AAC1A5D92FD006DEE31 /* Build configuration list for PBXNativeTarget "githubTests" */ = {
 			isa = XCConfigurationList;
@@ -415,6 +420,7 @@
 				AAAB4AAE1A5D92FD006DEE31 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
